@@ -1,8 +1,7 @@
 ## 📌 Overview
 
 This document provides structured answers to open-ended questions based on Chapter 3 of the course material, which focuses on **software** — a core component of computer systems. It highlights the role of system software and its four main types, explores different categories of operating systems, and covers mobile OS, desktop OS, and virtualization. The final section discusses utility programs, including their types and how utility suites simplify system maintenance.
-
----
+<br><br>
 
 ## ✍️ Personal Reflection
 
