@@ -1,4 +1,4 @@
-## 🧠 Jigsaw Group Individual Reflection Overview
+## 🧠 Overview
 This reflection summarizes the key points presented by all groups during our Jigsaw activity on the topic of Computer Systems and Hardware. The activity allowed us to explore various components that make up a complete computer system, and understand how each part contributes to overall functionality and user experience.
 <br> <br>
 ## 🔹 Topics Covered:
