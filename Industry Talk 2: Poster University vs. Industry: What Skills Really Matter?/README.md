@@ -12,4 +12,4 @@ Key points from their talk include:
 From this presentation, we learned that while university builds a strong foundation of theoretical knowledge, it is not always sufficient to meet the demands of real-world jobs. The ICT industry values professionals who are adaptable, proactive, and capable of working in teams and solving real-world problems.
 <br><br>
 ## 🖼️ Poster
-📎 Poster Industry Talk 2: University vs. Industry: What Skills Really Matter?
+📎 [Poster Industry Talk 2: University vs. Industry: What Skills Really Matter?](./Industry_Talk_2.pdf)
