@@ -11,7 +11,7 @@ This reflection summarizes the key points presented by all groups during our Jig
 <br><br>
 ## 📌 Reflection
 Through this Jigsaw activity, I was able to not only dive deeper into my assigned topic but also learn from other groups’ expertise. It helped me understand how each hardware component has a specific role, and how they all work together to form a functional and efficient computer system. The collaborative nature of the task also improved my communication and teamwork skills.
-<br><<br>
+<br><br>
 ## ✍️ Individual Reflection
 This file contains my personal summary of the jigsaw group activity and the key lessons I gained across all group presentations.
 
