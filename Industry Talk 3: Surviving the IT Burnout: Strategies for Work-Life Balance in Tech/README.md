@@ -7,6 +7,7 @@ Key points covered in the talk:
 - Student-Specific strategies
 - Strategies of WLB
 <br><br>
+## 🧠 Group Reflection
 Preparing and delivering this talk helped us reflect on our own habits and expectations within the tech space. As ICT students, we often overlook the importance of maintaining a healthy balance between productivity and rest.
 We realized that work-life balance is not just about managing time, but managing energy, mindset, and boundaries. Learning to set boundaries, taking proper breaks, and prioritizing well-being are skills as essential as any programming language or software tool.
 <br><br>
