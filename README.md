@@ -13,18 +13,15 @@ This course also includes individual and group-based tasks such as reflections, 
 
 ---
 
-## 📁 Folder Structure  
+## 📚 Course Chapters
 
-| Folder Name                          | Description                                      |
-|-------------------------------------|--------------------------------------------------|
-| `Chapter_1_Introduction`            | Notes and activities for Chapter 1               |
-| `Chapter_2_Hardware`                | Hardware notes, group reflection, and slides     |
-| `Expert_Presentation_IO_Devices`    | Summary & reflection on input/output presentation|
-| `Jigsaw_Reflection`                 | Personal summary across all jigsaw groups        |
-| `SummaryPoster_University_vs_Industry` | Poster summary of a peer group's presentation |
-| `Industry_Talk_BurnoutReflection`   | Reflection on industry talk about burnout        |
-
-> *(Update this table based on your actual folders)*
+1. Chapter 1: Emerging Technology in ICT 
+2. Chapter 2: Computer Hardware
+3. Chapter 3: Software 
+4. Chapter 4: Information System & SAD
+5. Chapter 5: Database & Data Analytics
+6. Chapter 6: Privacy & Ethics
+7. Chapter 7: Cloud Computing  
 
 ---
 
@@ -40,10 +37,4 @@ Throughout this course, I aim to:
 ## ✍️ Final Thoughts  
 This repository not only helps me keep track of my learning but also serves as a portfolio of my work for SECP1513.  
 All files were created and organized with GitHub as a version control and learning tool.
-
----
-
-📌 *Course: SECP1513 – Technology and Information System*  
-🎓 *Student: Umi Izzatul N.*  
-🗓️ *Semester: [Insert your semester, e.g., June 2025]*
 
