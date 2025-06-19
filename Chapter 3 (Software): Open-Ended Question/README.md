@@ -9,6 +9,6 @@ Chapter 3 has deepened my understanding of how software enables hardware to func
 This chapter gave me a broader perspective on what happens behind the scenes in every computing experience — and why understanding software is just as important as understanding hardware.
 
 ## ✍️ Open-Ended Question 
-This file contains my responses to open-ended questions from Chapter 3: Software.
+This file contains my responses to open-ended questions from Chapter 3: Software
 
 📎 [Open-Ended Question (with answers)](./Open_Ended_Question.pdf)
