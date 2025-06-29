@@ -23,4 +23,5 @@ This project shows how Design Thinking helps turn complex challenges into user-c
 <br><br>
 ## 🔗 Project Links
 - 📘 [Design Thinking Report: Big Data and AI New Innovation (Personalized Learning System)](./Design_thinking_report.pdf)
+- 📄 [Design Thinking Presentation Slide: Big Data and AI New Innovation (Personalized Learning System)](./Design_thinking_slide.pdf)
 - 🎨 [SmartEdu Figma Prototype](https://www.figma.com/proto/wyvIbobYkEaVda4Vt98zQZ/SmartEdu-Apps-UI?page-id=0%3A1&node-id=9-38&p=f&viewport=226%2C-136%2C0.21&t=wvypdNZkAMkjoREc-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=9%3A38)
